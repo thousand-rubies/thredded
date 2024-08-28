@@ -8,7 +8,7 @@
     "@rails/webpacker": "^4.0.7",
     "rails-erb-loader": "^5.5.2",
     "turbolinks": "^5.2.0",
-    "webpack": "^4.0.0"
+    "webpack": "^5.94.0"
   },
   "version": "0.1.0",
   "devDependencies": {
